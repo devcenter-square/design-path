@@ -15,4 +15,4 @@ This is a visual roadmap for beginners venturing into the World of Design. In or
 🏆 - Exercises <br />
 
 ## Beginner Level of Design 
-<hr />
+
