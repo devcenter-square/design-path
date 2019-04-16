@@ -18,6 +18,7 @@ This is a visual roadmap for beginners venturing into the World of Design. In or
 
 ### Adobe Illustrator
 <ul>
-  <li><a href="https://www.tutpad.com/courses/illustrator/beginner">TutPad</a></li>
-  <li><a href="https://www.creativebloq.com/digital-art/illustrator-tutorials-1232697"> Creative Blog Tut </a> </li>
+  <li><a href="https://www.tutpad.com/courses/illustrator/beginner">TutPad </a> 📹</li>
+  <li><a href="https://www.creativebloq.com/digital-art/illustrator-tutorials-1232697"> Creative Blog Tut</a>  📝📹</li>
+  <li><a href="https://designmodo.com/tutorials/illustrator/">Design Modo</a> 📝📹</li> 
 </ul>
