@@ -51,7 +51,10 @@ This is a visual roadmap for beginners venturing into the World of Design. In or
   <li><a href="http://slack.uxdesigncommunity.com/">UX Design Community </a> 👩‍💻</li>
   <li><a href="https://designerhangout.co/"> Designer Hangout</a>  👩‍💻</li>
   <li><a href="http://www.product-tribes.com/index.html">Product Tribes</a> 👩‍💻</li>
+  <li><a href="https://www.are.na">Arena</a> 👩‍💻</li>
 </ul>
+
+
 
 ### UI Libraries/Pattern
 
