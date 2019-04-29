@@ -42,6 +42,7 @@ This is a visual roadmap for beginners venturing into the World of Design. In or
   <li><a href="http://uxdesignweekly.com/"> UX Design Weekly</a> 📝</li>
   <li><a href="http://www.creativebloq.com/"> Creative Blog </a> 📝 </li>
   <li><a href="https://www.noupe.com/"> Noupe Blog </a> 📝 </li>
+  <li><a href="https://automattic.design"> Automattic Design </a> 📝 </li>
 </ul>
 
 
@@ -87,6 +88,14 @@ This is a visual roadmap for beginners venturing into the World of Design. In or
 <ul>
   <li><a href="https://learnmobile.design/"> Learn Mobile design: A comprehensive resource for anything you need to know about mobile design </a> 🎁📹📚</li>
 
+</ul>
+
+
+### Figma
+
+<ul>
+  <li><a href="https://www.figma.com/resources/learn-design/"></a> Design Foundations with exercises powered by Figma</li>
+  <li><a href="https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA"></a> Official Figma Channel</li>
 </ul>
 
 
